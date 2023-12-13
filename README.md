@@ -14,12 +14,12 @@ and provide how to setup dependency and execute code and unit test
 
 ## To run
 
-// Install Dependency
-npm install
-// Complie Typescript
-npx tsc
-// Run File
-node index.js
-
-// Unit Test
-npm test
+// Install Dependency \
+npm install \
+// Complie Typescript\
+npx tsc\
+// Run File\
+node index.js\
+\
+// Unit Test\
+npm test\
