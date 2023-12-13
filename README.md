@@ -22,4 +22,4 @@ npx tsc\
 node index.js\
 \
 // Unit Test\
-npm test\
+npm test
